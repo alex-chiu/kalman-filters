@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Initializing basic Kalman filter test" << std::endl;
+  std::cout << "### INITIALIZING BASIC KALMAN FILTER TEST ###" << std::endl;
 
   Eigen::VectorXf initialPos(3);
   initialPos << 5.0, 10.0, 15.0;

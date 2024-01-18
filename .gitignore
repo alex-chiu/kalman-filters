@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Pip cached files
+*/pip_cache/*
+
+# Virtual environment files
+*/*venv*/*
