@@ -36,3 +36,6 @@
 
 # Virtual environment files
 */*venv*/*
+
+# Generate data files
+*/data/*
